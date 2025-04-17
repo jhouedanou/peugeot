@@ -30,7 +30,7 @@ paginate: true
 ---
 
 ## 📱 LE POST DE RIPOSTE UNIQUE
-![Post de riposte Peugeot](clapback.png)
+![Post de riposte Peugeot](https://raw.githubusercontent.com/jhouedanou/peugeot/refs/heads/main/clapback.png)
 
 ---
 
